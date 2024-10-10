@@ -66,7 +66,6 @@ def get_guessed_word(secret_word, letters_guessed):
 
         pass
 
-
 def is_guess_in_word(guess, secret_word):
     '''
     A function to check if the guessed letter is in the secret word
